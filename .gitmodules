@@ -1,0 +1,3 @@
+[submodule "rustsimulationservice/qedlibrs"]
+	path = rustsimulationservice/qedlibrs
+	url = https://gitlab.com/QuantumEmulator/qedlibrs.git
