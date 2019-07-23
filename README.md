@@ -5,11 +5,11 @@
 To install all requirements:
 
 ```
-pip3 install -r requirements.txt
+cargo install
 ```
 
 To start the service:
 
 ```
-./run.sh
+cargo run
 ```
