@@ -1,5 +1,5 @@
 FROM rust:1.31
-ADD rustsimulationservice /app/
+ADD rustsimulationservice/qedlibrs /app/
 WORKDIR /app/
-RUN cargo install
+RUN cargo install --path .
 ENTRYPOINT cargo run
