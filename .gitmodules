@@ -1,3 +1,3 @@
 [submodule "rustsimulationservice/qedlibrs"]
 	path = rustsimulationservice/qedlibrs
-	url = https://github.com/comp-phys-marc/qeelib.git
+	url = https://github.com/comp-phys-marc/qeelibrs.git
